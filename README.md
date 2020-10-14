@@ -1,7 +1,7 @@
 # Starter Web Project
 
 Adding a line for rebasing
-
+, more changes from myfeature branch
 ## Introduction
 
 This repository is for showing how Git and GitHub work
