@@ -4,7 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-
+    Eruc Perron    ericb.perron@bnc.ca
 # THANKS
 
     <name>
