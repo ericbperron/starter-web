@@ -13,3 +13,5 @@ As stated, the purpose of this file is to make some noise
 This is deployment section
 
 ## How To Contribute
+
+Please fork this directory
